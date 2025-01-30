@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/b17df875-5a4b-4f94-87dd-582379d51f05)
 
-                ##Diversity and Inclusion analysis
+               # ** Diversity and Inclusion analysis**
 
 
 
