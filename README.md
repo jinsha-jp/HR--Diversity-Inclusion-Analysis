@@ -1,8 +1,5 @@
-![image](https://github.com/user-attachments/assets/b17df875-5a4b-4f94-87dd-582379d51f05)
-
 # Diversity and Inclusion analysis
-
-
+![image](https://github.com/user-attachments/assets/b17df875-5a4b-4f94-87dd-582379d51f05)
 
 ## Objective:
 Human Resources at PWC telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level.
