@@ -1,5 +1,8 @@
-# HR-Diversity-Inclusion-Analysis
-Analyzed an HR Diversity and Inclusion dataset and designed a Power BI dashboard report to  help HR team to evaluate the organization's diversity initiatives
+![image](https://github.com/user-attachments/assets/b17df875-5a4b-4f94-87dd-582379d51f05)
+
+                ##Diversity and Inclusion analysis
+
+
 
 #Objective:
 Human Resources at PWC telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level.
@@ -13,7 +16,19 @@ Data cleaning for the dataset was done in the power query editor as follows:
 •	Each of the columns in the table were validated to have the correct data type
 
 #Data Modelling:
+
+
+
 ![image](https://github.com/user-attachments/assets/d33a15c9-e09a-4f95-b160-cfd9dae95112)
+
+#Dashboard
+![image](https://github.com/user-attachments/assets/dd2d507c-2dfb-4f1e-a12b-ba6102219bb5)
+
+![image](https://github.com/user-attachments/assets/70426e54-f58f-4d27-81d6-811e7edf3877)
+
+
+
+
 
 #Insights and Recommendation
 •	Gender Distribution: One key finding from the data is that male employees outnumber female employees by 18%.This distribution suggests a gender imbalance within the workforce. An in-depth analysis of gender distribution across departments reveals a concerning trend. The data indicates that while the Operations department has a relatively balanced gender distribution, all other departments show a higher percentage of male employees compared to females, suggesting a possible gender imbalance and a need for intervention.
