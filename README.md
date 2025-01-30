@@ -8,12 +8,13 @@
 Human Resources at PWC telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level.
 In this project designed a Power BI dashboard report and formulated measures to define relevant KPIs to track and evaluate the organization's diversity initiatives
 
-#Data Collection & Data modeling
+## Data Collection & Data modeling
 The dataset was provided as an excel file by PwC from the Human Resources department of a telecom client during PwC Power BI in Data Analytics Virtual Case Experience, which contained records of 500 employee consisting major fields like Employee ID, Gender, Age Group, Job Level after FY20 Promotions, New Hire FY20, FY20 Performance Rating, FY20 Leaver, Last Department in FY20, Time in Job Level, Promotion in FY20, Last Hire Date, etc.
 Data cleaning for the dataset was done in the power query editor as follows:
-•	Removed Unnecessary columns
-•	Removed Unnecessary rows
-•	Each of the columns in the table were validated to have the correct data type
+- Replaced column value
+- Removed Unnecessary columns
+- Removed Unnecessary rows
+- Each of the columns in the table were validated to have the correct data type
 
 ## Data Modelling:
 
@@ -23,6 +24,7 @@ Data cleaning for the dataset was done in the power query editor as follows:
 
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/dd2d507c-2dfb-4f1e-a12b-ba6102219bb5)
+
 
 ![image](https://github.com/user-attachments/assets/70426e54-f58f-4d27-81d6-811e7edf3877)
 
