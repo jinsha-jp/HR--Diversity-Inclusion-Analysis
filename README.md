@@ -20,10 +20,12 @@ Data cleaning for the dataset was done in the power query editor as follows:
 ![image](https://github.com/user-attachments/assets/d33a15c9-e09a-4f95-b160-cfd9dae95112)
 
 ## Dashboard
-![image](https://github.com/user-attachments/assets/dd2d507c-2dfb-4f1e-a12b-ba6102219bb5)
+![image](https://github.com/user-attachments/assets/a69be6fb-33d3-4996-9701-6b8a15dc1063)
 
 
-![image](https://github.com/user-attachments/assets/70426e54-f58f-4d27-81d6-811e7edf3877)
+
+![image](https://github.com/user-attachments/assets/90d94d8b-2bdd-400b-b0c3-be99384ba8a1)
+
 
 
 
